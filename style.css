@@ -1,0 +1,23 @@
+#box{
+    width: 200px;
+    padding: 10px;
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+ul  {
+    list-style-type: none;
+   margin: 0; 
+   padding: 0; 
+   overflow: hidden; 
+   background-color: rgb(243, 232, 232);
+   position: fixed;
+   top: 0.5em;
+   width: 100% ;
+ }
+
+ li {
+  float: left;
+  padding: 3em;
+ 
+}
