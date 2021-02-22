@@ -1,9 +1,15 @@
 
-
-#container1 {
-    font-size: 15px;
+#container > {
     display: flex;
-    flex-direction: row;
-    align-items: flex-start;
-}
+    flex-flow: row wrap;
+    width: 1em;
+    height: 4em;
 
+}
+.container .container3  
+{
+    display: flex;
+    width: 100px;
+    flex-flow: column;
+    justify-content:left;
+}
