@@ -1,9 +1,9 @@
 
 
-#container {
+#container1 {
+    font-size: 15px;
     display: flex;
-    justify-content: flex-start;
-    flex-flow: column;
+    flex-direction: row;
+    align-items: flex-start;
 }
-
 
