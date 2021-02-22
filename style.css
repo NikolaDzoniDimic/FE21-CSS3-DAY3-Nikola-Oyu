@@ -1,6 +1,5 @@
 #box{
     width: 200px;
-    padding: 10px;
     background-color: antiquewhite;
     text-align: center;
 }
@@ -19,5 +18,12 @@ ul  {
  li {
   float: left;
   padding: 3em;
+
  
+}
+
+a:hover {
+  background-color: #d8e2dc;
+  color: white;
+  font-size: 30px;
 }
